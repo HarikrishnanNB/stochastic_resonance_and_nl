@@ -9,7 +9,8 @@ into higher dimensions using estimates derived from chaotic skew-tent maps.
 
 **Reference Paper:**
 
-1.Balakrishnan, Harikrishnan Nellippallil, et al. "ChaosNet: A chaos based artificial neural network architecture for classification." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
+1. Balakrishnan, Harikrishnan Nellippallil, et al. "ChaosNet: A chaos based artificial neural network architecture for classification." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
+
 2. Harikrishnan, N. B., and Nithin Nagaraj. "Neurochaos Inspired Hybrid Machine Learning Architecture for Classification." 2020 International Conference on Signal Processing and Communications (SPCOM). IEEE, 2020.
 
 # Dependencies
