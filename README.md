@@ -9,8 +9,6 @@ The crux of the paper is provided in the following diagram.
 <img
 src="Images for architecture_signal_detection_SR/full_architecture.png"
 raw=true
-width="350"
-height="350"
 alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
