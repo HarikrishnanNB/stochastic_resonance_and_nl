@@ -1,6 +1,20 @@
 # WHEN NOISE MEETS CHAOS: STOCHASTIC RESONANCE IN NEUROCHAOS LEARNING
 
-Inspired by the chaotic firing of neurons and the constructive use of noise in neuronal models, we for the first time connect chaos, noise and learning (classification). In this paper, we show the Stochastic Resonance (SR) phenomenon shown by an instance of Neurochaos Learning (NL) algorithm namely \verb+ChaosNet+. We show empirical evidence of SR exhibited at the level of individual neurons, at the level of layer of neurons in the \verb+ChaosNet+ architecture. In the presence of optimum amount of noise \verb+ChaosNet+ provides the peak performance for classification and signal detection. We use macro F1-score  and cross correlation coefficient ($\rho$) computed for various noise intensities as measure to quantify SR exhibited in \verb+ChaosNet+.
+In this work we showcase the constrictive use of noise inherently in Neurochaos Learning for classification
+
+# Stochastic Resonance and Neurochaos Learning.
+
+The crux of the paper is provided in the following diagram.
+
+<img
+src="Images for architecture_signal_detection_SR/full_architecture.png"
+raw=true
+width="350"
+height="350"
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
+
 
 [Video explanation on YouTube](https://www.youtube.com/watch?v=8JQstLi4COk) on the usage of chaotic maps as feature extraction and highlighting chief ideas and inspiration.
 
