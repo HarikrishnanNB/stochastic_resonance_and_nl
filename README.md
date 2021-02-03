@@ -28,24 +28,6 @@ style="margin-right: 10px;"
  - `Numpy`
  - `Numba`
 
-# Installation
-
- - Presently unpackaged
- - Up-to-date conda environment with dependencies installed
- - `git clone` into a working directory
-
-# Usage
-
- - Please check out `demo.py` to see ChaosFEX in action
-
-# TODO
-
- - Add Jupyter notebook for detailed demo of trajectory & transformations
- - Examples for showcasing performance as a kernel trick with SVC
- - Integrate with `scikit-learn`
- - Add tests and logging
- - Packaging for PyPI
-
 
 # License
 
