@@ -155,7 +155,7 @@ def k_cross_validation(FOLD_NO, traindata, trainlabel, testdata, testlabel, INIT
     np.save(RESULT_PATH+"/h_fscore.npy", FSCORE )    
     np.save(RESULT_PATH+"/h_accuracy.npy", ACCURACY ) 
     np.save(RESULT_PATH+"/h_Q.npy", Q ) 
-    np.save(RESULT_PATH+"/h_Q.npy", B )
+    np.save(RESULT_PATH+"/h_B.npy", B )
     np.save(RESULT_PATH+"/h_EPS.npy", EPS )               
     
     
